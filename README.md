@@ -1,8 +1,8 @@
 # Salut, moi c'est Mel 👋
 
-Technicienne systèmes et réseaux en formation (**TSSR**), basée à Narbonne.
+Technicienne systèmes et réseaux en formation (**TSSR**).
 
-Pendant plusieurs années, j'ai protégé des bâtiments et du public dans la sécurité. Aujourd'hui, j'apprends à protéger les systèmes. Mon objectif : me spécialiser en **cybersécurité**.
+J'aime comprendre comment les choses fonctionnent et trouver la solution quand ça bloque. Je m'intéresse beaucoup à la **cybersécurité**.
 
 ## 🔎 Je cherche un stage
 
@@ -23,7 +23,7 @@ Pendant plusieurs années, j'ai protégé des bâtiments et du public dans la s�
 
 ## 💼 Mon parcours
 
-**Stage au service informatique du Grand Narbonne** : gestion du parc, installation et réparation des postes, traitement des tickets.
+**Stage au service informatique d'une agglomération** : gestion du parc, installation et réparation des postes, traitement des tickets.
 
 **Titre professionnel TSSR**, BeWeb, 2026 - 2027 (en cours).
 
