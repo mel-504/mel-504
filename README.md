@@ -22,5 +22,3 @@ J'aime comprendre comment les choses fonctionnent et trouver la solution quand �
 **Stage au service informatique d'une agglomération** : gestion du parc, installation et réparation des postes, traitement des tickets.
 
 **Titre professionnel TSSR**, BeWeb, 2026 - 2027 (en cours).
-
-**Agent de sécurité et SSIAP** : PC sécurité en banque, contrôle d'accès, gestion des incidents.
